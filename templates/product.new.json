@@ -1,0 +1,67 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-test-product",
+      "blocks": {
+        "003faa9a-ff99-4744-87f2-af1498d07776": {
+          "type": "shipping_notice_block",
+          "settings": {
+            "shipping_notice_text": "Ships in 7 Days"
+          }
+        },
+        "08e76533-2b5a-413f-ac5b-a46276f30832": {
+          "type": "tax_notice_block",
+          "settings": {
+            "tax_notice_text": "Tax Included"
+          }
+        }
+      },
+      "block_order": [
+        "003faa9a-ff99-4744-87f2-af1498d07776",
+        "08e76533-2b5a-413f-ac5b-a46276f30832"
+      ],
+      "settings": {
+        "show_reviews": true
+      }
+    },
+    "790839ab-c248-4921-8808-1a3d7886ce26": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17370081722681__790839ab-c248-4921-8808-1a3d7886ce26-167223810336b9ccec-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Test"
+          }
+        },
+        "template--17370081722681__790839ab-c248-4921-8808-1a3d7886ce26-167223810336b9ccec-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>test text<\/p>"
+          }
+        },
+        "template--17370081722681__790839ab-c248-4921-8808-1a3d7886ce26-167223810336b9ccec-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17370081722681__790839ab-c248-4921-8808-1a3d7886ce26-167223810336b9ccec-0",
+        "template--17370081722681__790839ab-c248-4921-8808-1a3d7886ce26-167223810336b9ccec-1",
+        "template--17370081722681__790839ab-c248-4921-8808-1a3d7886ce26-167223810336b9ccec-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about_4.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "790839ab-c248-4921-8808-1a3d7886ce26"
+  ]
+}
