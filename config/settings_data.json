@@ -1,0 +1,91 @@
+{
+  "current": {
+    "colors_accent_1": "#80411e",
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_tiktok_link": "https:\/\/tiktok.com\/@shopify",
+    "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "text": "Coffee Time ☕",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0"
+        ],
+        "settings": {}
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/logo_w.png",
+          "logo_width": 200,
+          "logo_position": "middle-left",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1f26eec2-896d-455e-8415-580ee6eeb494": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Navigation",
+              "menu": "main-menu"
+            }
+          },
+          "footer-0": {
+            "type": "link_list",
+            "disabled": true,
+            "settings": {
+              "heading": "Quick Links",
+              "menu": "footer"
+            }
+          },
+          "e6642e83-a68c-461c-968b-eb007d94e6d7": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Info",
+              "menu": "footer"
+            }
+          },
+          "7f28afa3-5a9a-4a3b-bd07-2a977c35f078": {
+            "type": "text",
+            "settings": {
+              "heading": "Slate Coffee",
+              "subtext": "<p>📍 1673 Sunburst Drive, 33901 FL<\/p><p>☎️  239-274-3577<\/p><p>📩  info@slatecoffee.com<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1f26eec2-896d-455e-8415-580ee6eeb494",
+          "footer-0",
+          "e6642e83-a68c-461c-968b-eb007d94e6d7",
+          "7f28afa3-5a9a-4a3b-bd07-2a977c35f078"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "4 Coffee Lovers ❤️",
+          "show_social": true,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true
+        }
+      }
+    },
+    "content_for_index": []
+  }
+}
