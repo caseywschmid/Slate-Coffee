@@ -1,0 +1,54 @@
+    <div class="slider-container">
+    {% for block in section.blocks %}
+        <div class="card">
+            <div class="testimonial-quotes">
+                {% render 'icon-quotes' %}
+            </div>
+            <p class="testimonial-text">{{ block.settings.testimonial_text }}</p>
+            <img src="{{ block.settings.testimonial_image | img_url: '300x' }}" alt="" class="testimonial-profile">
+            <p class="testimonial-name">{{ block.settings.testimonial_name }}</p>
+        </div>
+    {% endfor %}
+    </div>
+
+{% comment %}   
+                Fake Testimonial Text:
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem
+                ipsum dolor sit amet, consectetur adipiscing elit. 
+{% endcomment %}
+
+
+{% schema %}
+{
+    "name": "Testimonials",
+    "settings":[],
+    "blocks": [
+        {
+            "type": "testimonial_card",
+            "name": "Testimonial Card",
+            "settings": [
+                {
+                    "id": "testimonial_text",
+                    "label": "Enter Client Testimonial",
+                    "type": "richtext"
+                },
+                {
+                    "id": "testimonial_name",
+                    "label": "Enter Client Name",
+                    "type": "text"
+                },
+                {
+                    "id": "testimonial_image",
+                    "label": "Upload Client Image",
+                    "type": "image_picker"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+          "name": "Testimonials Section"
+        }
+  ]
+}
+{% endschema %}

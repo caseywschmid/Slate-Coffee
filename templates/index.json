@@ -106,6 +106,48 @@
         "full_width": false
       }
     },
+    "94b0ec4c-fad0-45ac-95ce-418de33f55f2": {
+      "type": "testimonials",
+      "blocks": {
+        "f52f5cbc-9791-489f-a41c-69e39838168b": {
+          "type": "testimonial_card",
+          "settings": {
+            "testimonial_text": "<p>Client Testimonial<\/p>",
+            "testimonial_name": "Client Name",
+            "testimonial_image": "shopify:\/\/shop_images\/user_1.jpg"
+          }
+        },
+        "31d0cbcc-d4ce-47e1-a0c4-379fbf7ed54b": {
+          "type": "testimonial_card",
+          "settings": {
+            "testimonial_text": "<p>Testimonial 2<\/p>",
+            "testimonial_name": "Bob Smith"
+          }
+        },
+        "f00ad18c-e391-445e-9d38-81b1d75a623b": {
+          "type": "testimonial_card",
+          "settings": {
+            "testimonial_text": "<p>Client 3<\/p>",
+            "testimonial_name": "Client 3"
+          }
+        },
+        "0e14891f-7cdc-4501-8d53-26d6b559bea3": {
+          "type": "testimonial_card",
+          "settings": {
+            "testimonial_text": "<p>Lorem Ipsum<\/p>",
+            "testimonial_name": "Client 4",
+            "testimonial_image": "shopify:\/\/shop_images\/farmer.png"
+          }
+        }
+      },
+      "block_order": [
+        "f52f5cbc-9791-489f-a41c-69e39838168b",
+        "31d0cbcc-d4ce-47e1-a0c4-379fbf7ed54b",
+        "f00ad18c-e391-445e-9d38-81b1d75a623b",
+        "0e14891f-7cdc-4501-8d53-26d6b559bea3"
+      ],
+      "settings": {}
+    },
     "725b703c-2c13-40e3-9cba-efa7af94adde": {
       "type": "collage",
       "blocks": {
@@ -153,6 +195,7 @@
     "a99f832f-e6c4-4abe-af84-0ccab89717dc",
     "image_text",
     "2583a749-334e-4ced-a681-ba1fc935191f",
+    "94b0ec4c-fad0-45ac-95ce-418de33f55f2",
     "725b703c-2c13-40e3-9cba-efa7af94adde"
   ]
 }

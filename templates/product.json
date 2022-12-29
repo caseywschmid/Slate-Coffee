@@ -72,25 +72,25 @@
         "template--17367832789305__75386576-c9f3-43a2-a3af-fd9773ef94cd-167224185138b72a89-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/farmer.png",
+            "image": "shopify:\/\/shop_images\/farmer.jpg",
             "title": "Direct Relations to Farmers",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Proin ultrices convallis malesuada. Nullam vitae dignissim purus. Morbi aliquet tristique elementum. Aenean elementum volutpat dolor pretium mollis. Phasellus molestie nec elit eu convallis.<\/p>"
           }
         },
         "template--17367832789305__75386576-c9f3-43a2-a3af-fd9773ef94cd-167224185138b72a89-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/coffee-plant.png",
+            "image": "shopify:\/\/shop_images\/plant-a-tree.jpg",
             "title": "Plant a tree for every 3rd order",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Phasellus molestie nec elit eu convallis. Nullam vitae dignissim purus. Proin ultrices convallis malesuada. Morbi aliquet tristique elementum. Aenean elementum volutpat dolor pretium mollis. <\/p>"
           }
         },
         "template--17367832789305__75386576-c9f3-43a2-a3af-fd9773ef94cd-167224185138b72a89-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/roaster.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/Roasted_-by-hand.jpg",
+            "title": "Roasted by Hand in Florida",
+            "text": "<p>Morbi aliquet tristique elementum. Proin ultrices convallis malesuada. Nullam vitae dignissim purus. Aenean elementum volutpat dolor pretium mollis. Phasellus molestie nec elit eu convallis.<\/p>"
           }
         }
       },
