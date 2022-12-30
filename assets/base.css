@@ -2146,3 +2146,15 @@ details-disclosure > details {
   max-width: 10%;
   max-height: 35px;
 }
+
+/* Coffee Info Accordion Styles */
+.accordion_table table{
+  width: 100%;
+  margin: auto;
+  text-align: left;
+}
+
+.coffee-bean svg{
+  max-width: 30px;
+  max-height: 30px;
+}

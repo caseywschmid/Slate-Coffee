@@ -112,31 +112,41 @@
         "f52f5cbc-9791-489f-a41c-69e39838168b": {
           "type": "testimonial_card",
           "settings": {
-            "testimonial_text": "<p>Client Testimonial<\/p>",
-            "testimonial_name": "Client Name",
+            "testimonial_text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem                ipsum dolor sit amet, consectetur adipiscing elit.<\/p>",
+            "testimonial_name": "Charles Baxter",
             "testimonial_image": "shopify:\/\/shop_images\/user_1.jpg"
           }
         },
         "31d0cbcc-d4ce-47e1-a0c4-379fbf7ed54b": {
           "type": "testimonial_card",
           "settings": {
-            "testimonial_text": "<p>Testimonial 2<\/p>",
-            "testimonial_name": "Bob Smith"
+            "testimonial_text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem                ipsum dolor sit amet, consectetur adipiscing elit.<\/p>",
+            "testimonial_name": "Bob Smith",
+            "testimonial_image": "shopify:\/\/shop_images\/user_3.jpg"
           }
         },
         "f00ad18c-e391-445e-9d38-81b1d75a623b": {
           "type": "testimonial_card",
           "settings": {
-            "testimonial_text": "<p>Client 3<\/p>",
-            "testimonial_name": "Client 3"
+            "testimonial_text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem                ipsum dolor sit amet, consectetur adipiscing elit.<\/p>",
+            "testimonial_name": "Sarah Jones",
+            "testimonial_image": "shopify:\/\/shop_images\/user_2.jpg"
           }
         },
         "0e14891f-7cdc-4501-8d53-26d6b559bea3": {
           "type": "testimonial_card",
           "settings": {
-            "testimonial_text": "<p>Lorem Ipsum<\/p>",
+            "testimonial_text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem                ipsum dolor sit amet, consectetur adipiscing elit.<\/p>",
             "testimonial_name": "Client 4",
-            "testimonial_image": "shopify:\/\/shop_images\/farmer.png"
+            "testimonial_image": "shopify:\/\/shop_images\/user_4.jpg"
+          }
+        },
+        "315edac4-4a65-4f0f-aebe-6f1a438e1bbf": {
+          "type": "testimonial_card",
+          "settings": {
+            "testimonial_text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem                ipsum dolor sit amet, consectetur adipiscing elit.<\/p>",
+            "testimonial_name": "Maria Sanchez",
+            "testimonial_image": "shopify:\/\/shop_images\/user_5.jpg"
           }
         }
       },
@@ -144,7 +154,8 @@
         "f52f5cbc-9791-489f-a41c-69e39838168b",
         "31d0cbcc-d4ce-47e1-a0c4-379fbf7ed54b",
         "f00ad18c-e391-445e-9d38-81b1d75a623b",
-        "0e14891f-7cdc-4501-8d53-26d6b559bea3"
+        "0e14891f-7cdc-4501-8d53-26d6b559bea3",
+        "315edac4-4a65-4f0f-aebe-6f1a438e1bbf"
       ],
       "settings": {}
     },
